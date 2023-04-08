@@ -23,3 +23,8 @@ While var and let can be declared without being initialized, const must be initi
 
 # 3
 - async, awaitの記法について理解する
+
+
+サーバーは一度落とさないと反映されないみたい
+
+ちゃんとhtmlを返す時はContent-Type=text/htmlにしないといけない、そうじゃないと解釈してくれない
